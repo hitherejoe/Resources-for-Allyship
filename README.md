@@ -17,6 +17,12 @@ This list will continue to grow and I'll only add things once they have been rea
 - [Diversity and Inclusion: Lessons In Friendship and Love](https://www.youtube.com/watch?v=mzu3ira61k8) - Maryam Elassar
 - [Diversity Is Reality](https://www.youtube.com/watch?v=EbODhGAyubw) - Ivan Fahy
 - [How Square Is Educating the Tech Industry About Diversity](https://www.youtube.com/watch?v=fjoUY2lbQGE) - Bloomberg Technology
+- [5 tips for being an Ally](https://www.youtube.com/watch?v=_dg86g-QlM0&t=3s)
+- [Why allyship is the new leadership](https://www.youtube.com/watch?v=ccJfzS13ZtA&t=2s)
+- [Why cultural diversity matters](https://www.youtube.com/watch?v=48RoRi0ddRU&t=6s)
+- [The surprising solution to workplace diversity](https://www.youtube.com/watch?v=mtUlRYXJ0vI)
+- [Practical diversity: Taking inclusion from theory to practice](https://www.youtube.com/watch?v=ExcDNly1DbI&t=8s)
+- [How diversity makes teams more innovative](https://www.youtube.com/watch?v=lPtPG2lAmm4&t=2s)
 
 ## Articles
 
