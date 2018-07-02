@@ -30,7 +30,7 @@ This list will continue to grow and I'll only add things once they have been rea
 
 ## Twitter accounts
 
-- https://twitter.com/GirlGeekAcademy
-- https://twitter.com/Code_LikeAGirl
-- https://twitter.com/CodeFirstGirls
-- https://twitter.com/BlackGirlsCode
+- [Girl Geek Academy](https://twitter.com/GirlGeekAcademy)
+- [Code Like a Girl](https://twitter.com/Code_LikeAGirl)
+- [Code First Girls](https://twitter.com/CodeFirstGirls)
+- [Black Girls Code](https://twitter.com/BlackGirlsCode)
