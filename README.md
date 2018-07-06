@@ -1,4 +1,4 @@
-# Resources-for-Allyship
+# Resources for Allyship
 
 When it comes to inclusivity, the term 'ally' should be treated as a verb. Whilst that is true, it helps to have knowledge about other peoples experiences, history and also how to take action. For that reason, I thought I'd start curating a list of resources that I have read or watched which are based around inclusion / diversity. 
 
