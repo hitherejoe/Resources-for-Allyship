@@ -40,3 +40,4 @@ This list will continue to grow and I'll only add things once they have been rea
 - [Code Like a Girl](https://twitter.com/Code_LikeAGirl)
 - [Code First Girls](https://twitter.com/CodeFirstGirls)
 - [Black Girls Code](https://twitter.com/BlackGirlsCode)
+- [Empowering Women](https://twitter.com/EmpowerWithTech)
