@@ -42,3 +42,4 @@ This list will continue to grow and I'll only add things once they have been rea
 - [Black Girls Code](https://twitter.com/BlackGirlsCode)
 - [Empowering Women](https://twitter.com/EmpowerWithTech)
 - [Black Founders](https://twitter.com/blackfounders)
+- [Girl Develop It](https://twitter.com/girldevelopit)
