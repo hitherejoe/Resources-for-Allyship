@@ -30,9 +30,10 @@ This list will continue to grow and I'll only add things once they have been rea
 - [Why More Tech Companies Should Hire People With Disabilities](https://www.inc.com/zoe-henry/aapd-disability-equality-index-2017.html)
 - [Women and Minorities in Tech, By the Numbers](https://www.wired.com/story/computer-science-graduates-diversity/)
 - [How Slack Got Ahead in Diversity](https://www.theatlantic.com/technology/archive/2018/04/how-slack-got-ahead-in-diversity/558806/)
-- [What does it mean to be a male ally?](https://www.huffingtonpost.com/entry/what-does-it-mean-to-be-a-male-ally_us_596d49d8e4b05561da5a5a05?guccounter=1)
-- [The Day we Hired a Blind Programmer](https://blog.momocentral.com/the-day-we-hired-a-blind-coder-9c9d704bb08b)
-- [When You Hear _______, Pay Attention](https://code.likeagirl.io/when-you-hear-pay-attention-337c3e677a42)
+- [What does it mean to be a male ally?](https://www.huffingtonpost.com/entry/what-does-it-mean-to-be-a-male-ally_us_596d49d8e4b05561da5a5a05?guccounter=1) - HuffPost
+- [The Day we Hired a Blind Programmer](https://blog.momocentral.com/the-day-we-hired-a-blind-coder-9c9d704bb08b) - Momo Central
+- [When You Hear _______, Pay Attention](https://code.likeagirl.io/when-you-hear-pay-attention-337c3e677a42) - Code Like a Girl
+- [These fierce black and brown dolls aim to empower girls of color](https://eu.usatoday.com/story/tech/2017/08/03/black-and-brown-girls-may-have-line-dolls-just-them/536860001/) - USA Today
 
 ## Twitter accounts
 
