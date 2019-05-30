@@ -35,6 +35,7 @@ This list will continue to grow and I'll only add things once they have been rea
 - [When You Hear _______, Pay Attention](https://code.likeagirl.io/when-you-hear-pay-attention-337c3e677a42) - Code Like a Girl
 - [These fierce black and brown dolls aim to empower girls of color](https://eu.usatoday.com/story/tech/2017/08/03/black-and-brown-girls-may-have-line-dolls-just-them/536860001/) - USA Today
 - [These 50 founders and VCs suggest 2018 may be a tipping point for women in tech: Part 2](https://techcrunch.com/2018/07/02/these-50-founders-and-vcs-suggest-2018-may-be-a-tipping-point-for-women-in-tech-part-2/)
+- [New best-practice guide to inclusive conferences launched](https://reachwater.org.uk/new-best-practice-guide-to-inclusive-conference-launched/)
 
 ## Twitter accounts
 
@@ -45,3 +46,4 @@ This list will continue to grow and I'll only add things once they have been rea
 - [Empowering Women](https://twitter.com/EmpowerWithTech)
 - [Black Founders](https://twitter.com/blackfounders)
 - [Girl Develop It](https://twitter.com/girldevelopit)
+- [accessibility=](https://twitter.com/a11y)
